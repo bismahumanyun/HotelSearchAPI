@@ -1,0 +1,21 @@
+{
+  "email": "b.humanyun@gmail.com",
+  "password": "B!$m@1234",
+  "firstName": "Bisma",
+  "lastName": "Humanyun",
+  "phoneNumber": "090078601",
+  "roles": [
+    "User"
+  ]
+}
+
+{
+  "email": "admin@example.com",
+  "password": "AD!m!n123",
+  "firstName": "abc",
+  "lastName": "xyz",
+  "phoneNumber": "4234234",
+  "roles": [
+    "Administrator"
+  ]
+}

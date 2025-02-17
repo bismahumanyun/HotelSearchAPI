@@ -1,9 +1,7 @@
 #HotelSearchAPI
-
-This Web API is created in the .NET Core 5 using Microsoft Visual Studio 2019 for an interview assessment assigned by the AHOY - a Dubai based organization.
+This Web API is created in the .NET Core 5 using Microsoft Visual Studio 2019 for learning purpose.
 
 #Instructions
-
 For getting connected, you need to generate an environment key by running cmd as administrator. Use the following commmand to do so: setx KEY "xyzkey12345" /M
 Change the DB credentials in the appsettings.JSON file.
 
@@ -17,9 +15,7 @@ Error Log text file will be generated at the "C:\HotelSearchAPI\Logs". The error
 
 Paging has also been implemented for the client's feasibility. 
 
-
 #DatabaseBackup
-
 A database backup "hotelDB.bak" has been attached also.
 
 #SampleUsers
